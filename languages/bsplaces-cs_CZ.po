@@ -1,0 +1,44 @@
+# Copyright (C) 2014 BSPlaces
+# This file is distributed under the same license as the BSPlaces package.
+msgid ""
+msgstr ""
+"Project-Id-Version: BSPlaces 1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bsplaces\n"
+"POT-Creation-Date: 2014-03-20 10:55:40+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-03-20 11:59+0100\n"
+"Last-Translator: Michal Nezerka <michal.nezerka@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.6.4\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Language: cs_CZ\n"
+
+#: bsplaces.php:49
+msgid "Location information"
+msgstr "Informace o poloze"
+
+#: bsplaces.php:55
+msgid "Location"
+msgstr "Poloha"
+
+#. Plugin Name of the plugin/theme
+msgid "BSPlaces"
+msgstr "BSPlaces"
+
+#. Description of the plugin/theme
+msgid ""
+"WP extension for attaching gps location and track (gpx) information to posts "
+"and pages. Default visualization engine is \"api.mapy.cz\"."
+msgstr ""
+"Rozšíření WP o možnost zadání polohy a trasy v gpx formátu pro příspěvky a "
+"stránky. Zobrazovací metoda je \"api.mapy.cz\"."
+
+#. Author of the plugin/theme
+msgid "Michal Nezerka"
+msgstr "Michal Nežerka"
+
+#. Author URI of the plugin/theme
+msgid "http://blue.pavoucek.cz"
+msgstr "http://blue.pavoucek.cz"
